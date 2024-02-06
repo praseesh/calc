@@ -1,0 +1,83 @@
+.calc{
+    width: 400px;
+    height: 600px;
+    background:#1c1c1c;
+    margin-left:400px ;
+    border-radius: 15px;
+
+}
+#screen{
+    width: 85%;
+    margin-left: 12px;
+    margin-top: 32px;
+    height: 67px;
+    pointer-events: none;
+    direction: rtl;
+    font-size: 80px;
+    background: #1c1c1c;
+    color: white;
+    border-style: none;
+}
+
+.btn{
+    width: 60px;
+    height: 60px;
+    margin-left: 27px;
+    margin-top: 30px;
+    background: #505050;
+    border-radius: 50%;
+    border-style: hidden;
+    font-size: xx-large;
+    color: #fff;
+}
+.btn:hover{
+    background: #9c9c9c;
+
+}
+.btn1{
+    width: 60px;
+    height: 60px;
+    margin-left: 27px;
+    margin-top: 30px;
+    background: #D4D4D2;
+    border-radius: 50%;
+    border-style: hidden;
+    font-size: xx-large;
+    color: #1c1c1c;
+}
+.btn1:hover{
+    background: #fff;
+
+}
+.btn2{
+    width: 60px;
+    height: 60px;
+    margin-left: 27px;
+    margin-top: 30px;
+    background: #FF9500;
+    border-radius: 50%;
+    border-style: hidden;
+    font-size: xx-large;
+    color: #fff;
+
+}
+.btn2:hover{
+    background: #ff9500ba;
+
+}
+.btn3{
+    width: 150px;
+    height: 60px;
+    margin-left: 27px;
+    margin-top: 30px;
+    background: #505050;
+    border-radius: 30px;
+    border-style: hidden;
+    font-size: xx-large;  
+    color: #fff;
+    
+}
+.btn3:hover{
+    background: #9c9c9c;
+
+}
